@@ -13,21 +13,19 @@ Se trata de un proyecto en Python para recolectar datos de establecimientos hote
 
 ## Archivos
 Existen dos carpetas con ficheros:<br>
-<br>
-1) csv<br>
-Guarda dataframes en formato csv<br>
 
+1) <b>csv</b><br>
+Guarda dataframes en formato csv:<br>
 
 dataframe.csv: Dataframe con los datos de un día (como prueba)<br>
 dataframe_13943.csv: Dataframe con datos de 14 días publicado en Zenodo<br>
 
+Se puede encontrar este último fichero en Zenodo:<br><br>
 DOI Link: 10.5281/zenodo.5639715<br>
 Target URL: https://doi.org/10.5281/zenodo.5639715<br>
 
-2) intermediate_files<br>
-Guarda elementos como listas y diccionarios en formato pkl para cargarlos a lo largo de la práctica y reducir el impacto en los servidores de booking.com<br>
-
-
+2) <b>intermediate_files</b><br>
+Guarda elementos como listas y diccionarios en formato pkl para cargarlos a lo largo de la práctica y reducir el impacto en los servidores de booking.com:<br>
 dic_d.pkl: Diccionario con los elementos fecha<br>
 dic_p.pkl: Diccionario con los elementos precios<br>
 dic_u.pkl: Diccionario con los elementos URLs<br>
