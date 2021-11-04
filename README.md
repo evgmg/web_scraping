@@ -12,7 +12,6 @@ para la asignatura M2.851 Tipología y ciclo de vida de los datos, dentro del M�
 Se trata de un proyecto en Python para recolectar datos de establecimientos hoteleros en la zona de costa de la geografía española, con el fin de probar las aplicaciones del web-scrapping en este sector, haciendo después un análisis de una supuesta competencia y otras aplicaciones interesantes.<br>
 
 ## Archivos
-<br>
 Existen dos carpetas con ficheros:<br>
 <br>
 1) csv<br>
